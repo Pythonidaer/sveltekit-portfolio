@@ -16,3 +16,7 @@ h3,
 .poppins {
   font-family: 'Poppins', sans-serif;
 }
+
+.max-w-70 {
+  min-width: 70px;
+}

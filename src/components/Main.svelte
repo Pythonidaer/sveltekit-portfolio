@@ -84,7 +84,7 @@
             {#each benefits as benefit, index}
                 <div class="flex gap-6 sm:gap-8">
                     <p
-                        class="poppins text-4xl sm:text-5xl md:text-6xl text-slate-500 font-semibold"
+                        class="max-w-70 poppins text-4xl sm:text-5xl md:text-6xl text-slate-500 font-semibold"
                     >
                         0{index + 1}
                     </p>
